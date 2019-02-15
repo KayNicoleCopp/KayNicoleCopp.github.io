@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Command Line Interface - A Lesson in Problem Solving""
-date:       2019-02-05 03:09:16 +0000
+date:       2019-02-04 22:09:17 -0500
 permalink:  command_line_interface_-_a_lesson_in_problem_solving
 ---
 
